@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# docker
+Dockerfile
+docker-compose.yml
